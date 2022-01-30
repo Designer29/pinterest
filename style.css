@@ -1,0 +1,29 @@
+*{margin: 0;padding: 0;}
+header{
+	display: flex;
+	background-color:       
+	#edf2fb;
+	padding: 0.5vw;
+	margin: 0.5vw;
+	text-decoration: none;
+	font-family: 'Mochiy Pop P One', sans-serif;
+}
+header ul a{padding: 5rem;
+font-size: 2rem;
+text-decoration: none;
+color: #abc4ff;
+}
+
+header ul a:hover{
+	/*background-color: #a0cde9;*/
+	color:#a0cde9;
+	font-weight:bold;
+	
+}
+.radius{border-radius:1rem;}
+.text-size{background-color:#edf2fb;
+	font-size: 2vw;
+	color: #a0cde9;
+	font-weight: bold;
+	font-family: 'Mochiy Pop P One', sans-serif;
+}
